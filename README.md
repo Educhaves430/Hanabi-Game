@@ -6,8 +6,10 @@ Laboratório de informática e computadores
 
 -> Hanabi in C
 
-Em conjunto com:
+Realizado por:
 
 - Diogo Medeiros, nº70633, https://github.com/Necas209
+
+- Eduardo Chaves, nº70611, https://github.com/Educhaves430
 
 - João Rodrigues, nº70579, https://github.com/joaohcr
